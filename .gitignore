@@ -1,0 +1,6 @@
+.env
+uploads/
+__pycache__/
+venv/
+results_flower.jpg
+florestyle2.json
